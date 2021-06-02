@@ -1,0 +1,17 @@
+.footer {
+background-color: black;
+
+}
+
+.page-links {
+  display:inline-flex;
+ 
+  flex-wrap: nowrap;
+  align-content: flex-end;
+  height: 100px;
+  width: 100px;
+  margin-inline: 20px;
+  cursor: pointer;
+  /* position: absolute; */
+
+}
